@@ -1,1 +1,1 @@
-$("#header").append([Jason])
+$("#header").append([Jason]);
