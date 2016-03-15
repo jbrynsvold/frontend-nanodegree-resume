@@ -5,7 +5,7 @@ var bio = {
   "name": "Jason Brynsvold",
   "role": "Web Developer",
   "contact": "214-505-4000",
-  "photo": ,
+  "photo": "me.jpg",
   "welcome": "Here I am welcoming you to my page",
   "skills": skills
 };
