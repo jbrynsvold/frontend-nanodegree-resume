@@ -10,6 +10,6 @@ var bio = {
   "skills": skills
 };
 
+$("#header").prepend(bio);
 $("#header").prepend(formattedRole);
 $("#header").prepend(formattedName);
-$("#main").prepend(bio);
